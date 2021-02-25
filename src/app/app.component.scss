@@ -1,0 +1,10 @@
+.dummy {
+  height: 200px;
+  background-color: rgba(208, 2, 27, 0.3);
+}
+
+.tui-container {
+  &_example {
+    background-color: rgba(204, 228, 255, 0.3);
+  }
+}
